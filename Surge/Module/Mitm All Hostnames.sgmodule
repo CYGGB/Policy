@@ -1,0 +1,8 @@
+#!name=MitM All Hostnames
+#!desc=Perform MitM on all hostnames with port 443, except those to Apple and other common sites which can't be inspected. You still need configure CA certificate and enable the main switch of MitM.
+
+[General]
+force-http-engine-hosts = %APPEND% *:80
+
+[MITM]
+hostname = %APPEND% -*.apple.com, -*.icloud.com.cn,-*.mzstatic.com, -*.crashlytics.com, -*.facebook.com, -*.instagram.com,-*.dropbox.com,-*.dropboxapi.com,-*.icloud.com:443,-*:80,*:443

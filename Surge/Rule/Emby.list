@@ -8,5 +8,6 @@ DOMAIN,azure-hk-1.forwardserver.xyz
 DOMAIN-SUFFIX,jmsooo.com
 DOMAIN-SUFFIX,emby.wtf
 DOMAIN-SUFFIX,aaa.ax
+DOMAIN-SUFFIX,emby.flowercloud.yt
 IP-CIDR,20.189.99.35/32,no-resolve
 IP-CIDR,45.126.125.71/32,no-resolve

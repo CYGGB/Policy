@@ -13,7 +13,7 @@
 
 [rewrite_local]
 
-^https?:\/\/ad\.12306\.cn\/ad\/ser\/getAdList url script-analyze-echo-response https://github/CYGGB/Policy/main/JavaScript/12306.js
+^https?:\/\/ad\.12306\.cn\/ad\/ser\/getAdList url script-analyze-echo-response https://github.com/CYGGB/Policy/blob/main/JavaScript/12306.js
 
 [mitm]
 

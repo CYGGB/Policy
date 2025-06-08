@@ -21,6 +21,9 @@
 
 [@chavyleung](https://github.com/chavyleung/scripts)
 
+# 脚本作者
+[@怠惰(Slotheve)](https://slotheve.com)
+
 # GEOIP
 
 [@Hackl0us/GeoIP2-CN](https://github.com/Hackl0us/GeoIP2-CN)

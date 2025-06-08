@@ -22,7 +22,7 @@
 [@chavyleung](https://github.com/chavyleung/scripts)
 
 # 脚本作者
-[@怠惰(Slotheve)](https://slotheve.com)
+[@怠惰(Slotheve)](https://github.com/Slotheve)
 
 # GEOIP
 

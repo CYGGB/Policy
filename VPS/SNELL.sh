@@ -657,7 +657,7 @@ menu() {
 	echo "################################"
 	echo -e "#      ${RED}Snell一键安装脚本${PLAIN}       #"
 	echo -e "# ${GREEN}作者${PLAIN}: 怠惰(Slotheve)         #"
-	echo -e "# ${GREEN}网址${PLAIN}: https://slotheve.com   #"
+	echo -e "# ${GREEN}仓库${PLAIN}: https://github.com/Slotheve   #"
 	echo -e "# ${GREEN}频道${PLAIN}: https://t.me/SlothNews #"
 	echo "################################"
 	echo " ----------------------"
